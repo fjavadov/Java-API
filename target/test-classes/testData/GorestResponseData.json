@@ -1,0 +1,9 @@
+{
+    "meta": null,
+    "data": {
+        "id": 1660,
+        "user_id": 2222,
+        "title": "API test",
+        "body": "Today we learn serialization"
+    }
+}
